@@ -19,18 +19,7 @@ Dependencies:
 
 
 
-- chafa
-
-
-
-
-
-
-
-
-
-
-  chafa is the program used in order to display the image on your terminal.
+- chafa (chafa is the program used in order to display the image on your terminal, it will probably be in the official repos of your distro).
 
 
 
