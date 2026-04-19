@@ -4,6 +4,62 @@ This Fish shell greeting shows an image when initilizing the shell.
 
 
 
+Dependencies:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- chafa
+
+
+
+
+
+
+
+
+
+
+  chafa is the program used in order to display the image on your terminal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- A terminal with image support, such as Konsole or Ghostty.
+
+
+
+
+
+
+
 
 
 Installation
